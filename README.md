@@ -8,11 +8,11 @@ Pick `FreeSuite-AllInOne-Setup` for everything (a checkbox for each app), or one
 
 ## What is in it
 
-- **Mail:** several mailboxes and one combined inbox, instant search, live delivery, rich-text composer, signatures, undo send, move messages between folders. Sign in with Google, or use any IMAP/SMTP provider with a password or app password.
+- **Mail:** several mailboxes and one combined inbox, instant search, live delivery, rich-text composer, signatures, undo send, move messages between folders, collapse mailboxes you don't need on screen. Sign in with Google, or use any IMAP/SMTP provider with a password or app password.
 - **Writer:** Word files in and out (.docx with lists, images, links, header and footer), tables, styles, page breaks, find and replace.
 - **Sheets:** several sheets per workbook, about 90 functions, Excel files in and out with styles, charts to PNG.
 - **Slides:** text, shapes, lines, images, speaker notes, full-screen presenter, export to PowerPoint (.pptx), PDF and HTML.
-- **PDF:** read, annotate, fill forms, sign, redact, merge, split, reorder and reduce size.
+- **PDF:** read, annotate (formatted text, stamps, links), fill forms, sign, redact, crop, bookmarks, merge, split, reorder and reduce size.
 
 The apps hand files to each other: save a mail attachment into your files, open it in the right app, email a document as an attachment, or turn a message into a PDF. English and French.
 
